@@ -1,0 +1,24 @@
+*{
+  font-size: 14px !important;
+}
+html{
+  font-family: "IranSans" !important;
+}
+body {
+  text-align: right;
+  font-family: "IranSans" !important;
+  margin: auto;
+  width: 500px;
+}
+input:focus {
+  border: none;
+}
+.r-1777fci{
+  font-size: 30px !important;
+}
+.r-1vigj5k{
+  padding: 30px;
+}
+.r-1pi2tsx {
+    padding: 30px;
+}
